@@ -54,8 +54,5 @@
 (require 'ace-jump-mode)
 (define-key global-map (kbd "s-j") 'ace-jump-mode)
 
-(require 'avy)
-(avy-setup-default)
-
 (require 'jdee)
 
