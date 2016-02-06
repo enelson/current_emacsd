@@ -38,6 +38,8 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/enelson/" (22198 10235 0 0) "web-1.10.pom" "VirtualShared/" "tmp/" "temp/" "server.cert" "Public/" "pss.xyz" "Pictures/" "Music/" "Movies/" "Library/" "java_app_docker/" "iis.log" "getacert.cer" "exercism/" "eclipse/" "e.csr" "e.cer" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "client_RSRTKSACC.jks" "Applications/" "application2.yml" "acc_paymentstore_keystore.jks" ".zshrc.pre-oh-my-zsh" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zprofile" ".zcompdump-ENELSON01M-5.2" ".zcompdump-ENELSON01M-5.1.1" ".zcompdump-ENELSON01M-5.1" ".zcompdump-ENELSON01M-5.0.8" ".viminfo" ".Trash/" ".ssh/" ".sincedb_fabc98bdcbe0da9de1062d07a0ced527" ".scala_history" ".sbt/" ".p2/" ".oracle_jre_usage/" ".oh-my-zsh/" ".m2/" ".lesshst" ".kotlin-daemon/" ".keystore" ".ivy2/" ".IntelliJIdea15/" ".IntelliJIdea14/" ".idea-build/" ".hgignore_global" ".gradle/" ".gitignore_global" ".gitconfig" ".freemind/" ".exercism.json" ".emacs.d/" ".emacs.bak" ".eclipse/" ".DS_Store" ".dropbox/" ".docker/" ".cups/" ".CFUserTextEncoding" ".ceylon/" ".bash_history" ".babel.json" ".atom/" ".anyconnect" ".activator/" ".account" "../" "./")
+
  ("/Users/enelson/.emacs.d/" (22198 9493 0 0) "projectile.cache" "projectile-bookmarks.eld" "init.el~" "init.el" "ido.last~" "ido.last" "ensime/" "elpa/" "auto-save-list/" "../" "./")
 
  ("/Users/enelson/dev/tmp/minimal-java/src/main/java/com/example/" (22170 62073 0 0) "validation/" "Test.java" "Request.java" "Hello.java" "../" "./")
@@ -51,8 +53,6 @@
  ("/Users/enelson/dev/tmp/minimal-java/src/" (22087 64401 0 0) "test/" "main/" "../" "./")
 
  ("/Users/enelson/dev/tmp/minimal-java/" (22179 45962 0 0) "target/" "src/" "project/" "LICENSE" "build.sbt" "activator-launch-1.3.6.jar" "activator" ".idea/" ".gitignore" ".ensime_cache/" ".ensime" "../" "./")
-
- ("/Users/enelson/" (22198 8860 0 0) "web-1.10.pom" "VirtualShared/" "tmp/" "temp/" "server.cert" "Public/" "pss.xyz" "Pictures/" "Music/" "Movies/" "Library/" "java_app_docker/" "iis.log" "getacert.cer" "exercism/" "eclipse/" "e.csr" "e.cer" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "client_RSRTKSACC.jks" "Applications/" "application2.yml" "acc_paymentstore_keystore.jks" ".zshrc.pre-oh-my-zsh" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zprofile" ".zcompdump-ENELSON01M-5.2" ".zcompdump-ENELSON01M-5.1.1" ".zcompdump-ENELSON01M-5.1" ".zcompdump-ENELSON01M-5.0.8" ".viminfo" ".Trash/" ".ssh/" ".sincedb_fabc98bdcbe0da9de1062d07a0ced527" ".scala_history" ".sbt/" ".p2/" ".oracle_jre_usage/" ".oh-my-zsh/" ".m2/" ".lesshst" ".kotlin-daemon/" ".keystore" ".ivy2/" ".IntelliJIdea15/" ".IntelliJIdea14/" ".idea-build/" ".hgignore_global" ".gradle/" ".gitignore_global" ".gitconfig" ".freemind/" ".exercism.json" ".emacs.d/" ".emacs.bak" ".eclipse/" ".DS_Store" ".dropbox/" ".docker/" ".cups/" ".CFUserTextEncoding" ".ceylon/" ".bash_history" ".babel.json" ".atom/" ".anyconnect" ".activator/" ".account" "../" "./")
 
  ("/Users/enelson/dev/tmp/minimal-scala/src/main/scala/com/example/" (22197 10306 0 0) "XYZ.scala" "Streams.scala" "Stats3.scala" "Stats2.scala" "Stats.scala~" "Stats.scala" "Hello.scala~" "Hello.scala" "#Hello.scala#" "../" "./")
 

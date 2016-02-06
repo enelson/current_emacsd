@@ -1,1 +1,1 @@
-("~/dev/tmp/minimal-scala/" "~/dev/tmp/minimal-java/")
+("~/dev/tmp/minimal-scala/" "~/.emacs.d/" "~/dev/tmp/minimal-java/")

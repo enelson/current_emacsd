@@ -29,9 +29,9 @@
 ;;(load-theme 'flatland-black t)
 ;;(load-theme 'obsidian t)
 ;;(load-theme 'peacock t)
-;;(load-theme 'boron t)
+(load-theme 'boron t)
 ;;(load-theme 'reykjavik t)
-(load-theme 'underwater t)
+;;(load-theme 'underwater t)
 
 (when (memq window-system '(mac ns)) 
   (exec-path-from-shell-initialize))
@@ -55,4 +55,6 @@
 (define-key global-map (kbd "s-j") 'ace-jump-mode)
 
 (require 'jdee)
+
+(require 'ag)
 
