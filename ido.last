@@ -1,0 +1,75 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/enelson/dev/tmp/minimal-java/src/main/java/com/" . "example/")
+ ("/Users/enelson/dev/tmp/minimal-java/src/main/java/" . "com/")
+ ("/Users/enelson/dev/tmp/minimal-java/src/main/" . "java/")
+ ("/Users/enelson/dev/tmp/minimal-java/src/" . "main/")
+ ("/Users/enelson/dev/tmp/minimal-java/" . "src/")
+ ("/Users/enelson/dev/tmp/minimal-scala/src/main/scala/com/" . "example/")
+ ("/Users/enelson/dev/tmp/minimal-scala/src/main/scala/" . "com/")
+ ("/Users/enelson/dev/tmp/minimal-scala/src/main/" . "scala/")
+ ("/Users/enelson/dev/tmp/minimal-scala/src/" . "main/")
+ ("/Users/enelson/dev/tmp/minimal-scala/" . "src/")
+ ("/Users/enelson/dev/tmp/" . "minimal-scala/")
+ ("/Users/enelson/dev/" . "tmp/")
+ ("/Users/enelson/" . "dev/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/enelson/dev/tmp/minimal-scala/src/main/scala/com/example/"
+ "/Users/enelson/.emacs.d/"
+ "/Users/enelson/dev/tmp/minimal-java/src/main/java/com/example/"
+ "/Users/enelson/dev/tmp/minimal-scala/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "XYZ.scala"
+ "init.el"
+ "Hello.java"
+ "Hello.scala"
+ ".projectile"
+ "Stats.scala"
+ "build.sbt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/enelson/.emacs.d/" (22198 9493 0 0) "projectile.cache" "projectile-bookmarks.eld" "init.el~" "init.el" "ido.last~" "ido.last" "ensime/" "elpa/" "auto-save-list/" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-java/src/main/java/com/example/" (22170 62073 0 0) "validation/" "Test.java" "Request.java" "Hello.java" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-java/src/main/java/com/" (22087 64401 0 0) "example/" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-java/src/main/java/" (22087 64401 0 0) "com/" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-java/src/main/" (22087 64401 0 0) "java/" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-java/src/" (22087 64401 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-java/" (22179 45962 0 0) "target/" "src/" "project/" "LICENSE" "build.sbt" "activator-launch-1.3.6.jar" "activator" ".idea/" ".gitignore" ".ensime_cache/" ".ensime" "../" "./")
+
+ ("/Users/enelson/" (22198 8860 0 0) "web-1.10.pom" "VirtualShared/" "tmp/" "temp/" "server.cert" "Public/" "pss.xyz" "Pictures/" "Music/" "Movies/" "Library/" "java_app_docker/" "iis.log" "getacert.cer" "exercism/" "eclipse/" "e.csr" "e.cer" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "client_RSRTKSACC.jks" "Applications/" "application2.yml" "acc_paymentstore_keystore.jks" ".zshrc.pre-oh-my-zsh" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zprofile" ".zcompdump-ENELSON01M-5.2" ".zcompdump-ENELSON01M-5.1.1" ".zcompdump-ENELSON01M-5.1" ".zcompdump-ENELSON01M-5.0.8" ".viminfo" ".Trash/" ".ssh/" ".sincedb_fabc98bdcbe0da9de1062d07a0ced527" ".scala_history" ".sbt/" ".p2/" ".oracle_jre_usage/" ".oh-my-zsh/" ".m2/" ".lesshst" ".kotlin-daemon/" ".keystore" ".ivy2/" ".IntelliJIdea15/" ".IntelliJIdea14/" ".idea-build/" ".hgignore_global" ".gradle/" ".gitignore_global" ".gitconfig" ".freemind/" ".exercism.json" ".emacs.d/" ".emacs.bak" ".eclipse/" ".DS_Store" ".dropbox/" ".docker/" ".cups/" ".CFUserTextEncoding" ".ceylon/" ".bash_history" ".babel.json" ".atom/" ".anyconnect" ".activator/" ".account" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-scala/src/main/scala/com/example/" (22197 10306 0 0) "XYZ.scala" "Streams.scala" "Stats3.scala" "Stats2.scala" "Stats.scala~" "Stats.scala" "Hello.scala~" "Hello.scala" "#Hello.scala#" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-scala/" (22197 10046 0 0) "target/" "src/" "project/" "LICENSE" "build.sbt" "activator-launch-1.3.6.jar" "activator" ".projectile~" ".projectile" ".idea/" ".gitignore" ".ensime_cache/" ".ensime" "#build.sbt#" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-scala/src/main/scala/com/" (22089 21601 0 0) "example/" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-scala/src/main/scala/" (22089 21601 0 0) "com/" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-scala/src/main/" (22111 31783 0 0) "scala/" "java/" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-scala/src/" (22089 21601 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/enelson/dev/tmp/" (22188 61697 0 0) "wsdl/" "minimal-scala/" "minimal-java/" "logging-service-1.0-SNAPSHOT.jar" "fizzbuzz2/" "fizzbuzz/" "eric-test/" ".mvn/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/dev/" (22179 47659 0 0) "type-classes-example/" "twobits/" "tmp/" "spingo/" "simplifile/" "logging-service/" "javaslang.github.io/" "javaslang/" "iTerm2-Color-Schemes/" "gradle_boot_scaffold/" "falcon_boot/" "ensime/" "databasescripts/" "cats/" "build/" "ancestry-boot/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

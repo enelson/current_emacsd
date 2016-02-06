@@ -1,0 +1,1 @@
+("~/dev/tmp/minimal-scala/" "~/dev/tmp/minimal-java/")

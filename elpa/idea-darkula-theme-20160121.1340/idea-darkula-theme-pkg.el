@@ -1,0 +1,1 @@
+(define-package "idea-darkula-theme" "20160121.1340" "Color theme based on IntelliJ IDEA Darkula color theme" '((emacs "24.1")) :url "http://github.com/fourier/idea-darkula-theme" :keywords '("themes"))
