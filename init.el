@@ -29,9 +29,10 @@
 ;;(load-theme 'flatland-black t)
 ;;(load-theme 'obsidian t)
 ;;(load-theme 'peacock t)
-(load-theme 'boron t)
+;;(load-theme 'boron t)
 ;;(load-theme 'reykjavik t)
 ;;(load-theme 'underwater t)
+(load-theme 'afternoon t)
 
 (when (memq window-system '(mac ns)) 
   (exec-path-from-shell-initialize))
