@@ -2,6 +2,22 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/enelson/dev/spingo/billing-api/src/main/scala/com/spingo/billing/" . "merchant/")
+ ("/Users/" . "enelson/")
+ ("/Users/enelson/dev/akka/akka-stream/src/main/scala/akka/stream/" . "javadsl/")
+ ("/Users/enelson/dev/akka/akka-stream/src/main/scala/akka/" . "stream/")
+ ("/Users/enelson/dev/akka/akka-stream/src/main/scala/" . "akka/")
+ ("/Users/enelson/dev/akka/akka-stream/src/main/" . "scala/")
+ ("/Users/enelson/dev/akka/akka-stream/src/" . "main/")
+ ("/Users/enelson/dev/akka/akka-stream/" . "src/")
+ ("/Users/enelson/dev/akka/" . "akka-stream/")
+ ("/Users/enelson/dev/spingo/billing-api/src/main/scala/com/spingo/" . "billing/")
+ ("/Users/enelson/dev/spingo/billing-api/src/main/scala/com/" . "spingo/")
+ ("/Users/enelson/dev/spingo/billing-api/src/main/scala/" . "com/")
+ ("/Users/enelson/dev/spingo/billing-api/src/main/" . "scala/")
+ ("/Users/enelson/dev/spingo/billing-api/src/" . "main/")
+ ("/Users/enelson/dev/spingo/billing-api/" . "src/")
+ ("/Users/enelson/dev/spingo/" . "billing-api/")
  ("/Users/enelson/dev/tmp/minimal-java/src/main/java/com/" . "example/")
  ("/Users/enelson/dev/tmp/minimal-java/src/main/java/" . "com/")
  ("/Users/enelson/dev/tmp/minimal-java/src/main/" . "java/")
@@ -13,40 +29,91 @@
  ("/Users/enelson/dev/tmp/minimal-scala/src/" . "main/")
  ("/Users/enelson/dev/tmp/minimal-scala/" . "src/")
  ("/Users/enelson/dev/tmp/" . "minimal-scala/")
- ("/Users/enelson/dev/" . "tmp/")
+ ("/Users/enelson/dev/" . "spingo/")
  ("/Users/enelson/" . "dev/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/enelson/dev/spingo/billing-api/src/main/scala/com/spingo/billing/merchant/"
  "/Users/enelson/dev/tmp/minimal-scala/src/main/scala/com/example/"
- "/Users/enelson/.emacs.d/"
+ "/Users/enelson/dev/spingo/billing-api/src/main/scala/com/spingo/billing/"
  "/Users/enelson/dev/tmp/minimal-java/src/main/java/com/example/"
+ "/Users/enelson/dev/akka/akka-stream/src/main/scala/akka/stream/javadsl/"
+ "/Users/enelson/dev/akka/akka-stream/src/main/scala/akka/stream/scaladsl/"
+ "/Users/enelson/.emacs.d/"
  "/Users/enelson/dev/tmp/minimal-scala/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "BillingMethod.scala"
+ "Shapeless.scala"
  "XYZ.scala"
- "init.el"
+ "StreamsBoot.scala"
  "Hello.java"
+ "Flow.scala"
+ "Boot.scala"
+ "init.el"
  "Hello.scala"
  ".projectile"
- "Stats.scala"
- "build.sbt"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/enelson/dev/tmp/minimal-scala/src/main/scala/com/example/" (22198 29147 0 0) "XYZ.scala~" "XYZ.scala" "Streams.scala" "Stats3.scala" "Stats2.scala" "Stats.scala~" "Stats.scala" "Hello.scala~" "Hello.scala" "#XYZ.scala#" "#Hello.scala#" "../" "./")
+ ("/Users/enelson/dev/spingo/billing-api/src/main/scala/com/spingo/billing/merchant/" (22179 45096 0 0) "SimpleHTTPSWrapper.scala" "PayPal.scala" "PaymentProcessor.scala" "MockMerchant.scala" "Merchant.scala" "FirstData.scala" "Enrichers.scala" "BillingMethod.scala" "../" "./")
 
- ("/Users/enelson/dev/tmp/minimal-scala/" (22198 26925 0 0) "target/" "src/" "project/" "LICENSE" "build.sbt" "activator-launch-1.3.6.jar" "activator" ".projectile~" ".projectile" ".idea/" ".gitignore" ".ensime_cache/" ".ensime" "../" "./")
+ ("/Users/enelson/dev/spingo/billing-api/" (22206 6704 0 0) "target/" "src/" "README" "project/" "docs/" "build.sbt" "billing-api-schema/" ".idea/" ".history" ".gitignore" ".git/" ".ensime_cache/" ".ensime" ".DS_Store" "../" "./")
 
- ("/Users/enelson/" (22200 48218 0 0) "web-1.10.pom" "VirtualShared/" "tmp/" "temp/" "server.cert" "Public/" "pss.xyz" "Pictures/" "Music/" "Movies/" "Library/" "java_app_docker/" "iis.log" "getacert.cer" "exercism/" "eclipse/" "e.csr" "e.cer" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "client_RSRTKSACC.jks" "Applications/" "application2.yml" "acc_paymentstore_keystore.jks" ".zshrc.pre-oh-my-zsh" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zprofile" ".zcompdump-ENELSON01M-5.2" ".zcompdump-ENELSON01M-5.1.1" ".zcompdump-ENELSON01M-5.1" ".zcompdump-ENELSON01M-5.0.8" ".viminfo" ".Trash/" ".ssh/" ".sincedb_fabc98bdcbe0da9de1062d07a0ced527" ".scala_history" ".sbt/" ".p2/" ".oracle_jre_usage/" ".oh-my-zsh/" ".m2/" ".lesshst" ".kotlin-daemon/" ".keystore" ".ivy2/" ".IntelliJIdea15/" ".IntelliJIdea14/" ".idea-build/" ".hgignore_global" ".gradle/" ".gitignore_global" ".gitconfig" ".freemind/" ".exercism.json" ".emacs.d/" ".emacs.bak" ".eclipse/" ".DS_Store" ".dropbox/" ".docker/" ".cups/" ".CFUserTextEncoding" ".ceylon/" ".bash_history" ".babel.json" ".atom/" ".anyconnect" ".activator/" ".account" "../" "./")
+ ("/Users/enelson/" (22211 25361 0 0) "web-1.10.pom" "VirtualShared/" "VirtualBox VMs/" "trust_store.jks" "tmp/" "temp/" "src/" "server.cert" "Public/" "pss.xyz" "ppl.jks" "Pictures/" "Music/" "Movies/" "Library/" "java_app_docker/" "iis.log" "getacert.cer" "exercism/" "eclipse/" "e.csr" "e.cer" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "client_RSRTKSACC.jks" "Applications/" "application2.yml" ".zshrc.pre-oh-my-zsh" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zprofile" ".zcompdump-ENELSON01M-5.2" ".zcompdump-ENELSON01M-5.1.1" ".zcompdump-ENELSON01M-5.1" ".zcompdump-ENELSON01M-5.0.8" ".viminfo" ".Trash/" ".ssh/" ".sincedb_fabc98bdcbe0da9de1062d07a0ced527" ".scala_history" ".sbt/" ".p2/" ".oracle_jre_usage/" ".oh-my-zsh/" ".m2/" ".lesshst" ".kotlin-daemon/" ".keystore" ".ivy2/" ".IntelliJIdea15/" ".IntelliJIdea14/" ".idea-build/" ".hgignore_global" ".gradle/" ".gitignore_global" ".gitconfig" ".freemind/" ".exercism.json" ".emacs.d/" ".emacs.bak" ".eclipse/" ".DS_Store" ".dropbox/" ".docker/" ".cups/" ".config/" ".CFUserTextEncoding" ".ceylon/" ".bash_history" ".babel.json" ".atom/" ".anyconnect" ".activator/" ".account" "../" "./")
 
- ("/Users/enelson/.emacs.d/" (22198 9493 0 0) "projectile.cache" "projectile-bookmarks.eld" "init.el~" "init.el" "ido.last~" "ido.last" "ensime/" "elpa/" "auto-save-list/" "../" "./")
+ ("/Users/enelson/.emacs.d/" (22210 22027 0 0) "projectile.cache" "projectile-bookmarks.eld" "init.el~" "init.el" "ido.last~" "ido.last" "ensime/" "elpa/" "auto-save-list/" "abbrev_defs" ".git/" "../" "./")
 
- ("/Users/enelson/dev/tmp/minimal-java/src/main/java/com/example/" (22170 62073 0 0) "validation/" "Test.java" "Request.java" "Hello.java" "../" "./")
+ ("/Users/enelson/dev/tmp/minimal-java/src/main/java/com/example/" (22210 28238 0 0) "Test.java" "match/" "DDD.java" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-scala/src/main/scala/com/example/" (22210 22016 0 0) "XYZ.scala~" "XYZ.scala" "Streams.scala" "Stats3.scala" "Stats2.scala" "Stats.scala~" "Stats.scala" "Shapeless.scala~" "Shapeless.scala" "Hello.scala~" "Hello.scala" "#Hello.scala#" "../" "./")
+
+ ("/Users/enelson/dev/tmp/minimal-scala/" (22210 19985 0 0) "target/" "src/" "project/" "LICENSE" "build.sbt" "activator-launch-1.3.6.jar" "activator" ".projectile~" ".projectile" ".idea/" ".gitignore" ".ensime_cache/" ".ensime" "../" "./")
+
+ ("/Users/enelson/dev/tmp/" (22210 26763 0 0) "wsdl/" "pattern-matching-starter/" "minimal-scala/" "minimal-java/" "logging-service-1.0-SNAPSHOT.jar" "fizzbuzz2/" "fizzbuzz/" "eric-test/" ".mvn/" ".DS_Store" "../" "./")
+
+ ("/Users/" (22053 12311 0 0) "Shared/" "enelson/" "administrator/" ".localized" "../" "./")
+
+ ("/Users/enelson/src/" (22206 6676 0 0) "spingo/" "../" "./")
+
+ ("/Users/enelson/dev/akka/akka-stream/src/main/scala/akka/stream/javadsl/" (22202 5735 0 0) "Tcp.scala" "SubSource.scala" "SubFlow.scala" "StreamConverters.scala" "Source.scala" "Sink.scala" "Queue.scala" "package.scala" "Keep.scala" "Graph.scala" "Flow.scala" "FileIO.scala" "BidiFlow.scala" "../" "./")
+
+ ("/Users/enelson/dev/spingo/billing-api/src/main/scala/com/spingo/billing/" (22206 6842 0 0) "Test.sc" "StreamsBoot.scala" "streams/" "serialization/" "protocol/" "merchant/" "HttpRoot.scala" "helpers/" "db/" "consumers/" "Boot.scala" "actors/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/dev/akka/akka-stream/src/main/scala/akka/stream/scaladsl/" (22202 1628 0 0) "Tcp.scala" "SubFlow.scala" "StreamConverters.scala" "Source.scala" "Sink.scala" "Queue.scala" "package.scala" "One2OneBidiFlow.scala" "Materialization.scala" "Graph.scala" "Flow.scala" "FileIO.scala" "BidiFlow.scala" "../" "./")
+
+ ("/Users/enelson/dev/akka/akka-stream/src/main/scala/akka/stream/" (22202 1209 0 0) "Transformer.scala" "ThrottleMode.scala" "Supervision.scala" "StreamTcpException.scala" "StreamLimitReachedException.scala" "stage/" "Shape.scala" "scaladsl/" "QueueOfferResult.scala" "OverflowStrategy.scala" "Materializer.scala" "javadsl/" "io/" "impl/" "Graph.scala" "Fusing.scala" "extra/" "Attributes.scala" "ActorMaterializer.scala" "actor/" "../" "./")
+
+ ("/Users/enelson/dev/akka/akka-stream/src/main/scala/akka/" (22202 1208 0 0) "stream/" "../" "./")
+
+ ("/Users/enelson/dev/akka/akka-stream/src/main/scala/" (22202 1208 0 0) "akka/" "../" "./")
+
+ ("/Users/enelson/dev/akka/akka-stream/src/main/" (22202 1208 0 0) "scala/" "resources/" "java/" "boilerplate/" "../" "./")
+
+ ("/Users/enelson/dev/akka/akka-stream/src/" (22202 1208 0 0) "main/" "../" "./")
+
+ ("/Users/enelson/dev/akka/akka-stream/" (22202 1208 0 0) "src/" "build.sbt" "../" "./")
+
+ ("/Users/enelson/dev/akka/" (22202 1210 0 0) "src/" "scripts/" "README.md" "project/" "LICENSE" "COPYING.protobuf" "CONTRIBUTING.md" "build.sbt" "akka-typed/" "akka-testkit/" "akka-stream-tests-tck/" "akka-stream-tests/" "akka-stream-testkit/" "akka-stream/" "akka-slf4j/" "akka-samples/" "akka-remote-tests/" "akka-remote/" "akka-protobuf/" "akka-persistence-tck/" "akka-persistence-query/" "akka-persistence/" "akka-parsing/" "akka-osgi/" "akka-multi-node-testkit/" "akka-kernel/" "akka-http-tests/" "akka-http-testkit/" "akka-http-marshallers-scala/" "akka-http-marshallers-java/" "akka-http-core/" "akka-http/" "akka-docs/" "akka-distributed-data/" "akka-contrib/" "akka-cluster-tools/" "akka-cluster-sharding/" "akka-cluster-metrics/" "akka-cluster/" "akka-camel/" "akka-bench-jmh/" "akka-agent/" "akka-actor-tests/" "akka-actor/" ".java-version" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/enelson/dev/" (22202 1101 0 0) "type-classes-example/" "twobits/" "tmp/" "spingo/" "simplifile/" "logging-service/" "javaslang.github.io/" "javaslang/" "iTerm2-Color-Schemes/" "gradle_boot_scaffold/" "falcon_boot/" "ensime/" "databasescripts/" "cats/" "build/" "ancestry-boot/" "akka/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/dev/spingo/billing-api/src/main/scala/com/spingo/" (21827 36136 0 0) "billing/" "../" "./")
+
+ ("/Users/enelson/dev/spingo/billing-api/src/main/scala/com/" (21827 36136 0 0) "spingo/" "../" "./")
+
+ ("/Users/enelson/dev/spingo/billing-api/src/main/scala/" (22028 22243 0 0) "com/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/dev/spingo/billing-api/src/main/" (22028 22243 0 0) "webapp/" "sql/" "scala-2.11/" "scala/" "resources/" "java/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/dev/spingo/billing-api/src/" (22028 22243 0 0) "test/" "main/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/dev/spingo/" (22119 33806 0 0) "billing-api/" "../" "./")
 
  ("/Users/enelson/dev/tmp/minimal-java/src/main/java/com/" (22087 64401 0 0) "example/" "../" "./")
 
@@ -65,10 +132,6 @@
  ("/Users/enelson/dev/tmp/minimal-scala/src/main/" (22111 31783 0 0) "scala/" "java/" "../" "./")
 
  ("/Users/enelson/dev/tmp/minimal-scala/src/" (22089 21601 0 0) "test/" "main/" "../" "./")
-
- ("/Users/enelson/dev/tmp/" (22188 61697 0 0) "wsdl/" "minimal-scala/" "minimal-java/" "logging-service-1.0-SNAPSHOT.jar" "fizzbuzz2/" "fizzbuzz/" "eric-test/" ".mvn/" ".DS_Store" "../" "./")
-
- ("/Users/enelson/dev/" (22179 47659 0 0) "type-classes-example/" "twobits/" "tmp/" "spingo/" "simplifile/" "logging-service/" "javaslang.github.io/" "javaslang/" "iTerm2-Color-Schemes/" "gradle_boot_scaffold/" "falcon_boot/" "ensime/" "databasescripts/" "cats/" "build/" "ancestry-boot/" ".DS_Store" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----
